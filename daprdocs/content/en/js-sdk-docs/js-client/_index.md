@@ -15,7 +15,8 @@ description: JavaScript Client SDK for developing Dapr applications
 ## Installing and importing Dapr's JS SDK
 
 Install the SDK with npm:
-```
+
+```bash
 npm i dapr-client
 ```
 
